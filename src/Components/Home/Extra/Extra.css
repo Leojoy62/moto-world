@@ -1,0 +1,11 @@
+.extra-sec{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content:space-between;
+    align-items: center;
+
+}
+.extra-sec img{
+    width: 800px;
+    height: auto;
+}

@@ -1,0 +1,6 @@
+.dashboard-container{
+    display: flex;
+}
+.sec-1{
+    border-right: 1px solid gray;
+}
